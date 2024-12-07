@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "nuxt-app": "./app",
+    "next-app": "./admin"
+  }
+}
